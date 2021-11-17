@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.20)
+project(amiibo_parser)
+add_executable(amiibo_parser parser.cpp)

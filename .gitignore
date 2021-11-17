@@ -1,0 +1,5 @@
+.vscode/
+builds/
+parser.dSYM/
+parser
+*.bin
